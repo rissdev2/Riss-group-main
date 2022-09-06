@@ -52,11 +52,12 @@ body {
     height: 100%;
 }
 body {
-    color: var(--thm-gray);
+    color: #262424;
     font-size: 16px;
     line-height: 28px;
     font-weight: 400;
     font-family: var(--thm-font);
+    background-color: #262424;
 }
 button:focus{
     outline: none;
